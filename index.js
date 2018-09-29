@@ -58,8 +58,8 @@ app.get('/getData', (req,res,next) =>{
     })
 });
 
-app.listen(4000, () => {
-    console.log("server is running at 4000");
+app.listen(9800, () => {
+    console.log("server is running at 9800");
 });
 
 app.get('/getproductdata/:region',(req,res) =>{
