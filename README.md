@@ -5,10 +5,10 @@ for storing the items as it is a cloud database and easy to integrate when the A
 store items photos.
 
 ## Requirement ##
-* [MongoDB](https://www.mongodb.com/) - Our Database v3.2
+* [MongoDB](https://www.mongodb.com/) - Databas
 * [Expressjs](http://expressjs.com/zh-tw/) - API Server
-* [Nodejs](https://nodejs.org/en/) - Backend Framework v7.1.0
-* [NPM](https://www.npmjs.com/) - Package Management v3.10.9
+* [Nodejs](https://nodejs.org/en/) - Backend Framework
+* [NPM](https://www.npmjs.com/) - Package Management
 
 ## Packages ##
 >1. [Mongoose](http://mongoosejs.com/) - mongodb object modeling
